@@ -1,0 +1,17 @@
+﻿Build started 5/9/2013 2:59:24 AM.
+     1>Project "C:\opencv\apps\haartraining\haar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\haar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         haar.vcxproj -> C:\opencv\apps\haartraining\Debug\haar.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\haar.unsuccessfulbuild".
+         Touching "Debug\haar.lastbuildstate".
+     1>Done Building Project "C:\opencv\apps\haartraining\haar.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
